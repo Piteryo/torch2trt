@@ -20,6 +20,7 @@ from .Conv1d import *
 from .Conv2d import *
 from .ConvTranspose2d import *
 from .getitem import *
+from .gru import *
 from .identity import *
 from .Identity import *
 from .instance_norm import *
